@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋 My name is Giselle
+==========================
 
-<!--
-**1giselle/1giselle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Back-end Software Developer
+-----------------------------
 
-Here are some ideas to get you started:
+I'm looking for a carreer change. Lifelong Learning is my key to success. I love tech and figure it out how to solve deep problems. My main focus are back-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also a student at [Alura](https://www.alura.com.br/)
+
+* 🌍  I'm based in Rio de Janeiro, Brazil
+* ✉️  You can contact me at [gisellegtech@gmail.com](mailto:gisellegtech@gmail.com)
+* 🚀  I'm currently working on my own business
+* 🧠  I'm learning Python, Agile methodology, Business Inteligence
+* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
+* ⚡  I love games and my favorite is League of Legends
+
+<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+
+### Skills
