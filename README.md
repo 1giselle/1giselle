@@ -24,9 +24,8 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
   
 
- 
  ## What I don't know, give me a few days😉 
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=1giselle&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/1giselle)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego3g&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/gui-loko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1giselle&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/1giselle)
