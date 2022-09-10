@@ -15,7 +15,7 @@ I am also a student at [Alura](https://www.alura.com.br/)
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * 🎮  I love games and my favorite is League of Legends
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/1giselle" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
