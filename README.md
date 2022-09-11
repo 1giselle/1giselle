@@ -1,10 +1,10 @@
 Hi 👋 My name is Giselle
 ==========================
 
-Business Intelligence (BI) 
+Back-End Development
 -----------------------------
 
-20 years of business experience in the largest logistics company in Latin America. Lifelong Learning is my key to success. I love tech and figure it out how to solve deep problems. My main focus are Business Intelligence (BI) 
+Looking for a change career changing after 20 years of business experience in the largest logistics company in Latin America. Lifelong Learning is my key to success. I love tech and figure it out how to solve deep problems. My main focus are Back-end Development. 
 
 I am also a student at [Alura](https://www.alura.com.br/)
 
