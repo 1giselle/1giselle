@@ -11,7 +11,7 @@ I am also a student at [Alura](https://www.alura.com.br/)
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [gisellegtech@gmail.com](mailto:gisellegtech@gmail.com)
 * 🚀  I'm currently working on my own business
-* 🧠  I'm learning Python, Power BI, Agile methodology, Business Inteligence
+* 🧠  I'm learning Python,.NET C#, Agile methodology
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * 🎮  I love games and my favorite is League of Legends
 
