@@ -1,7 +1,7 @@
 Hi 👋 My name is Giselle
 ==========================
 
-Cybersecurit
+Cybersecurity
 -----------------------------
 
 Looking for a change career changing after 20 years of business experience in the largest logistics company in Latin America. Lifelong Learning is my key to success. I love tech and figure it out how to solve deep problems. My main focus are cybersecurity.
